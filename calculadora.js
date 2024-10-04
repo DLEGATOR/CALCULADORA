@@ -5,5 +5,6 @@ function calculadora(){
     let resultado = num1 + num2;
 
     alert((resultado));
+    alert("ahora he modificado para la nueva funcion")
 }
 calculadora();
